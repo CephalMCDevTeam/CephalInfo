@@ -5,5 +5,11 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class CephalInfo extends JavaPlugin
 {
+public void onEnable(){
+	
+}
 
+public void onDisable(){
+	
+}
 }
