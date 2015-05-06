@@ -1,4 +1,4 @@
-package com.github.butter1484.CephalInfo;
+package com.github.butter1484;
 
 import org.bukkit.ChatColor;
 import org.bukkit.command.Command;
